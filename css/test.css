@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    color: blueviolet;
+}
+
+h4 {
+    font-size: 60px;
+}
+
+.sekil {
+    font-size: 30px;
+    background-color: olive;
+    color: yellow;
+}
+.mekil{
+    text-align: right;
+}
